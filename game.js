@@ -132,7 +132,7 @@
     x : 50,
     y :100,
     speed : 0,
-    gravity : .5,
+    gravity : 1,
     thrust : 3.6,
     frame:0,
     draw : function() {
