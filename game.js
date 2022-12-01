@@ -133,7 +133,7 @@
     y :100,
     speed : 0,
     gravity : 1,
-    thrust : 3.6,
+    thrust : 1.5,
     frame:0,
     draw : function() {
         let h = this.animations[this.frame].sprite.height;
